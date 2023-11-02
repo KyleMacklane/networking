@@ -1,4 +1,3 @@
-#  MUKAGA ISAAC DAVIS 21/U/ITD/5156/PD
 import socket
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
